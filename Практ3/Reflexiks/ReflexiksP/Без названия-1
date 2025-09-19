@@ -1,0 +1,60 @@
+00a169
+434343
+ececec
+
+                                                                 background: -webkit-linear-gradient(344deg, #00a169,#ffffff);/* Chrome 10-25, Safari 5.1-6 */                          background: linear-gradient(344deg, #00a169,#ffffff);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */      
+                                                                 
+margin: 0;
+padding: 0;
+line-height: 5;
+font-family: Montserrat;
+
+color: #ececec;
+
+
+        <main class="main">
+            <section >
+                <div class="about-us">
+                    <h1>
+                    Удобные тесты точно определят твой уровень знаний</h1>
+                    <ul>
+                    <li><a href="#"> Определи уровень английского по общеевропейской системе CEFR
+                        </a></li>
+                    <li><a href="#"> Узнай, осилишь ли ты ОГЭ по математике
+                        </a></li>
+                    <li><a href="#"> Оцени свою репутацию у Ольги Николаевны Кирюхиной
+                        </a></li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+        
+        .main {
+    width: 100%;
+      box-shadow: 40px 32px 32px 32px #00a169;
+}
+.about-us{
+    width: 100%;
+    margin-top: -20px;
+    height: 1000px;
+    background:linear-gradient(344deg, #00a169,#ffffff);
+   font-size: 20px;
+}
+
+ <h1 class="h1">
+                    Удобные тесты точно определят твой уровень знаний</h1>
+.h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size:3em;
+    display: flex;
+    justify-content: center;
+     
+}
+<span class="company-title">SpaceZ</span>
+
+  <div class="none">
+                   <img clfss="noneimg" src="img/free-icon-barrier-2052502.png" width="250" height="250">
+                       <p class="nonetext"> Этот раздел находится в разработке. Приносим свои извинения.
+                       </p>
+                       </div>
